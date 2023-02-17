@@ -1,2 +1,2 @@
-# Pass-manager
-Password generator and storage with json and tkinter
+Przedstawiony tu projekt jest programem do zapisywania i generowania haseł. 
+Działa z użyciem json i biblioteki tkinter
